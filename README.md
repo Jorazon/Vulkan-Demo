@@ -1,6 +1,6 @@
 # Vulcan Demo
 
-## A cross-platform (Soon™) graphics application utilizing Vulkan
+## A cross-platform<sup>Soonâ„¢</sup> graphics application utilizing Vulkan
 
 Made this to learn the Vulkan API and related concepts, such as loading libraries.
 
